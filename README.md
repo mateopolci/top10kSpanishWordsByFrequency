@@ -1,8 +1,8 @@
 # top10kSpanishWordsByFrequency  
 ## Description  
-Made a simple python script to generate a clean, line-by-line list of the top 10000 words used in spanish according to [this RAE public file](https://corpus.rae.es/frec/10000_formas.TXT) in order to add an improved spanish functionality to the [Obsidian Completr community plugin](https://github.com/tth05/obsidian-completr).  
+Made a simple python script to generate a clean, line-by-line list of the top 10000 words used in spanish according to [this RAE public file](https://corpus.rae.es/frec/10000_formas.TXT) in order to add an improved spanish functionality to the [Obsidian](https://obsidian.md/) community plugin [Obsidian Completr ](https://github.com/tth05/obsidian-completr).  
 
-## Code used to make the file
+### Code used to make the file
 ```Python
 import re
 
